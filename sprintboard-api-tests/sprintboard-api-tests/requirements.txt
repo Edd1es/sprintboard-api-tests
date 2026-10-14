@@ -1,0 +1,6 @@
+fastapi
+uvicorn
+pytest
+requests
+jsonschema
+pytest-html
